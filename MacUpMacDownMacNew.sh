@@ -42,12 +42,12 @@ sleep 3
 tset 
 reset
 
-macchanger --random eth0 2> /dev/null
-macchanger --random eth1 2> /dev/null
-macchanger --random lo 2> /dev/null
-macchanger --random wlan 2> /dev/null
-macchanger --random wlan0 2> /dev/null
-macchanger --random wlan0mon 2> /dev/null 
+macchanger --random -A eth0 2> /dev/null
+macchanger --random -A eth1 2> /dev/null
+macchanger --random lo -A 2> /dev/null
+macchanger --random wlan -A 2> /dev/null
+macchanger --random wlan0 -A 2> /dev/null
+macchanger --random wlan0mon-A 2> /dev/null 
 sleep 3 
 
 tset 
