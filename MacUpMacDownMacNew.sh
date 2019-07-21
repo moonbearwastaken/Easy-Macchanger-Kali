@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-#sudo apt install macchanger net-tools -y
+#sudo apt install git macchanger net-tools -y
 
 tset 
 reset
