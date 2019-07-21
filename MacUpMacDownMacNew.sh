@@ -24,7 +24,7 @@ macchanger -s lo 2> /dev/null
 macchanger -s wlan 2> /dev/null
 macchanger -s wlan0 2> /dev/null
 macchanger -s wlan0mon 2> /dev/null
-sleep 3
+sleep 1
 
 tset 
 reset 
@@ -66,7 +66,7 @@ ifconfig lo up 2> /dev/null
 ifconfig wlan up 2> /dev/null
 ifconfig wlan0 up 2> /dev/null
 ifconfig wlan0mon up 2> /dev/null
-sleep 5 
+sleep 1 
 
 tset 
 reset
