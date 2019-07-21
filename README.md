@@ -7,7 +7,7 @@ How To Run
 
 Type These Lines.
 
-sudo apt install git net-tools -y 
+sudo apt install git macchanger net-tools -y 
 
 git clone https://github.com/moonbearwastaken/Easy-Macchanger-Kali.git 
 
