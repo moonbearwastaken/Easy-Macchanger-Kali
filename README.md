@@ -20,7 +20,7 @@ sudo ./MacUpMacDownMacNew.sh
 ========================
 
 
-Requiered 
+Required 
 
 :net-tools
 
