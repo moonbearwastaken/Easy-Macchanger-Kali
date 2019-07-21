@@ -7,7 +7,7 @@ How To Run
 
 Type These Lines.
 
-sudo apt install git macchanger net-tools -y 
+
 
 git clone https://github.com/moonbearwastaken/Easy-Macchanger-Kali.git 
 
@@ -18,3 +18,9 @@ sudo chmod +x MacUpMacDownMacNew.sh
 sudo ./MacUpMacDownMacNew.sh 
 
 ========================
+
+
+Requiered 
+:net-tools
+:macchanger
+:git
