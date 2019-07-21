@@ -22,8 +22,6 @@ sudo ./MacUpMacDownMacNew.sh
 
 Required 
 
-:net-tools
-
 :macchanger
 
 :git
